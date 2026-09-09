@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>sider</title>
+        <link>https://jorgeMartinez293.github.io/sider-releases/appcast.xml</link>
+        <description>sider updates</description>
+        <language>en</language>
+    </channel>
+</rss>
